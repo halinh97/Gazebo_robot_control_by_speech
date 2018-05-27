@@ -1,0 +1,8 @@
+prefix=/home/nhatlinh/mybot_ws/install
+
+Name: pocketsphinx
+Description: Description of pocketsphinx
+Version: 1.0.1
+Cflags: 
+Libs: -L/home/nhatlinh/mybot_ws/install/lib 
+Requires: 
